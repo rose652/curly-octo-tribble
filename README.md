@@ -13,3 +13,9 @@ machine learning practice. It may include numerical features and a target label.
 ## Tools Used
 - Git & GitHub
 - CSV dataset
+
+## Future Work
+- Data preprocessing
+- Model training
+- Model evaluation
+
